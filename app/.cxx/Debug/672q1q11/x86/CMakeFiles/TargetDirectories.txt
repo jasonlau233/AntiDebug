@@ -1,3 +1,0 @@
-/Users/liuzhicheng/Documents/AntiDebug/app/.cxx/Debug/672q1q11/x86/CMakeFiles/AntiDebug.dir
-/Users/liuzhicheng/Documents/AntiDebug/app/.cxx/Debug/672q1q11/x86/CMakeFiles/edit_cache.dir
-/Users/liuzhicheng/Documents/AntiDebug/app/.cxx/Debug/672q1q11/x86/CMakeFiles/rebuild_cache.dir

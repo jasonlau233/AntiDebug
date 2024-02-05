@@ -1,4 +1,0 @@
-# ninja log v5
-0	665	1707113469911750208	CMakeFiles/AntiDebug.dir/src/main/cpp/native-lib.cpp.o	b2e4ca1a58e8b222
-1	746	1707113469984898972	CMakeFiles/AntiDebug.dir/src/main/cpp/AntiDebug.cpp.o	e51ad19a97bd7665
-747	876	1707113470102352458	../../../../build/intermediates/cxx/Debug/672q1q11/obj/armeabi-v7a/libAntiDebug.so	1f9365b270b4dc0a
