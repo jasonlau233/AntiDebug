@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/Users/liuzhicheng/Documents/AntiDebug/app/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/liuzhicheng/Documents/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/liuzhicheng/Documents/AntiDebug/app/.cxx/RelWithDebInfo/653w1g84/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/liuzhicheng/Documents/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/liuzhicheng/Documents/AntiDebug/app/.cxx/RelWithDebInfo/653w1g84/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "AntiDebug::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "AntiDebug",
+      "output": "/Users/liuzhicheng/Documents/AntiDebug/app/build/intermediates/cxx/RelWithDebInfo/653w1g84/obj/x86/libAntiDebug.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/liuzhicheng/Documents/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/liuzhicheng/Documents/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

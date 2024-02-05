@@ -1,0 +1,4 @@
+# ninja log v5
+0	724	1707113296503060518	CMakeFiles/AntiDebug.dir/src/main/cpp/native-lib.cpp.o	8e203d671e0c0ee0
+0	825	1707113296606579661	CMakeFiles/AntiDebug.dir/src/main/cpp/AntiDebug.cpp.o	4463601ec3c9d4a3
+826	979	1707113296709829528	../../../../build/intermediates/cxx/Debug/672q1q11/obj/arm64-v8a/libAntiDebug.so	865e158baca65d84
