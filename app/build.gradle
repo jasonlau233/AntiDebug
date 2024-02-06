@@ -37,7 +37,7 @@ afterEvaluate {
 
                 // You can then customize attributes of the publication as shown below.
                 groupId = 'com.android.antidebug'
-                version = '1.4.0'
+                version = '1.8.0'
             }
         }
     }
